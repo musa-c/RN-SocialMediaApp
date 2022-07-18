@@ -25,6 +25,7 @@ git clone https://github.com/musa-c/RN-SocialMediaApp.git
 ## Kullanılan Teknolojiler
 - [Firebase](https://firebase.google.com/)
 - [ReactNative](https://reactnative.dev/)
+- [Expo](https://expo.dev/)
 
 
 
